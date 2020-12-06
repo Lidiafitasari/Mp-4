@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="produk">Nama Produk</string>
+    <string name="text_produk">wardah</string>
+    <string name="price">Price</string>
+    <string name="rupiah">Rp. 250.000</string>
+    <string name="stok">stok</string>
+    <string name="jumlah">150</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="uraian">[PROMO] Paket Hemat Komplit Wardah Lightening Series</string>
+    <string name="back">Button</string>
+</resources>
